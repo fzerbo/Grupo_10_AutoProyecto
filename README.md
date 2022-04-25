@@ -7,7 +7,7 @@ como por ejemplo Ford , Chevrolet , Peugeot , Volskwagen , Dodge.
 Nuestro público esta apuntado a todas las personas que quieran adquirir un auto 0Km 
 pudiendo comparar y ver las diferentes marcas, modelos y las principales prestaciones que ofrece cada vehículo  según el gusto de cada cliente.
 
-# SITIOS REFERENCIALES PARA LA CREACION DE NUESTRO ECOMMERCE
+# Sitios referenciales para la creacion de nuestro ECOMMERCE
 - http: //www.kavak.com :  Home , Catalogo de autos y filtros accesibles, con precios e imagenes de cada auto 
 - https://www.chevrolet.com.ar/ Se sacaron ideas  del Home de chevrolet como la transcion de imagenes del inicio 
 - http: //Ford : Detalle de producto, agradable, todo lo necesario
