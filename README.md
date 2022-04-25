@@ -6,3 +6,12 @@ como por ejemplo Ford , Chevrolet , Peugeot , Volskwagen , Dodge.
 
 Nuestro público esta apuntado a todas las personas que quieran adquirir un auto 0Km 
 pudiendo comparar y ver las diferentes marcas, modelos y las principales prestaciones que ofrece cada vehículo  según el gusto de cada cliente.
+
+SITIOS REFERENCIALES PARA LA CREACION DE NUESTRO ECOMMERCE
+http: //www.kavak.com           Catalogo de autos y filtros accesibles, con precios e imagenes de cada auto 
+http: //www.autoland.com     acceso rapido a varias marcas y modelos 
+http: //Neoauto.com             Varias funcionalidades para comprar un auto
+http: //ford        SImple, agradable, todo lo necesario
+http: //Volkswagen  Presenta una opcion de diseño donde puedes personalizar el auto
+http: //Mini        Elegante, facil de ingresar
+http: //Mazda       pagina ordenada, presenta una auto donde se aprecia todos los detalles
