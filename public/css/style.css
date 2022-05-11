@@ -1,0 +1,138 @@
+
+
+
+.navegador {
+   height: 15vh; 
+   display: flex;
+   flex-direction: row;
+   justify-content:  space-around;
+   border-bottom: solid  1px gray;
+
+ 
+}
+
+
+nav ul li a{
+   list-style:none;
+   font-family: Arial;
+   font-weight: bold;
+   text-decoration: none;
+   
+   
+ 
+}
+
+nav ul{
+   height: 20%;
+   width: 100%;
+   list-style:none;
+   display: flex;
+   flex-direction: flex-end;
+   justify-content: space-between;
+
+}
+
+.carrousel{
+   width: 90%;
+   max-width: 120em;
+   background-color: lightskyblue;
+   padding: 2em;
+
+
+}
+
+section .textoR{
+
+   font-family: Arial;
+   text-align: center;
+   padding: 30px;
+
+}
+section .Compra .textoC{
+   background-color:  black;
+
+
+}
+
+
+section .Compra .textoC{
+   font-family: Arial;
+   
+   text-align: center;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 15px;
+   padding-right: 15px;
+   color: white !important;
+   border-radius: 0.5rem;
+   margin-top: 20px;
+   
+
+
+
+}
+
+section .Compra{
+   background-color: var(--black);
+    color: var(--black-contrast);
+    border: 1px solid transparent;
+   
+   }
+   section .Compra{
+   height: auto;
+    line-height: normal;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   }
+
+   footer .piePagina{
+
+      
+      display: flex;
+      flex-direction: row;
+      justify-content:  space-around;
+      margin: 100px;
+
+   }
+
+   footer .piePagina .art ul {
+
+      
+      list-style:none;
+      font-family: Arial;
+     
+      text-decoration: none;
+      
+
+   }
+
+   footer .piePagina .art ul li a{
+
+      text-decoration: none;
+      
+   }
+
+ .fondoPie{
+
+   background-color: #242424;
+
+ }
+
+ footer .piePagina h2{
+
+   font-family: Arial;
+   color: whitesmoke;
+   
+}
+
+
+
+footer .piePagina .art ul li a{
+
+  color: whitesmoke
+   
+}
+

@@ -1,0 +1,175 @@
+section .recuadroG{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 80px;
+    flex-wrap: wrap;
+  
+
+  
+}
+   
+
+
+article .articulo  h4{
+
+   font-family: Louis,Tahoma,NotoSansKR,sans-serif;
+   font-style: inherit;
+   font-weight: 400;
+   letter-spacing: .15rem;
+   text-align: center;
+   
+    
+}
+
+.navegadorAutos{
+   display: flex;
+    
+    justify-content: flex-start;
+    justify-content: center;
+    
+    
+}
+
+section nav ul .autos{
+   
+   padding-right: 120px;
+   text-decoration: none;
+}
+
+section nav ul .suv{
+   
+   padding-right: 120px;
+   text-decoration: none;
+   
+}
+
+section nav ul .pickups{
+   
+   padding-right: 120px;
+   text-decoration: none;
+}
+
+section .navAutos{
+
+   display: flex;
+   justify-content: flex-start;
+    justify-content: center;
+   
+  
+   
+   }
+section a{
+
+   outline: none;
+   text-decoration: none;
+   
+}
+section .autos {
+   width: 350px;
+   height: 70px;
+   text-align: center;
+   font-family: Tahoma;
+   
+   font-weight: 400;
+   letter-spacing: 1px;
+   background-color: rgb(243, 243, 243);
+   color: rgb(150, 148, 148);
+   text-align: center;
+   
+
+}
+
+section .suv{
+   width: 350px;
+   height: 70px;
+   text-align: center;
+   font-family: Tahoma;
+   font-style: inherit;
+   font-weight: 400;
+   letter-spacing: 1px;
+   color: rgb(150, 148, 148);
+   background-color: rgb(243, 243, 243);
+   
+   
+}
+section .pickups{
+   width: 350px;
+   height: 70px;
+   text-align: center;
+   font-family: Tahoma;
+   font-style: inherit;
+   font-weight: 400;
+   letter-spacing: 1px;
+   color: rgb(150, 148, 148);
+   background-color: rgb(243, 243, 243);
+   
+
+   
+}
+section .deportivos{
+   width: 350px;
+   height: 70px;
+   text-align: center;
+   font-family: Tahoma;
+   font-style: inherit;
+   font-weight: 400;
+   letter-spacing: 1px;
+   color: rgb(150, 148, 148);
+   background-color: rgb(243, 243, 243);
+   
+}
+
+section .autos:hover{
+
+   background-color: white;
+   color: black;
+   transition: background-color 900ms;
+
+
+}
+
+section .suv:hover{
+
+   background-color: white;
+   color: black;
+   transition: background-color 900ms;
+
+
+}
+
+section .pickups:hover{
+
+   background-color: white;
+   color: black;
+   transition: background-color 900ms;
+
+
+}
+
+section .deportivos:hover{
+
+   background-color: white;
+   color: black;
+   transition: background-color 900ms;
+
+
+}
+
+.card{
+   box-shadow: 2px 2px 10px #000000;
+   border-radius: 10px;
+   margin: 10px;
+
+}
+
+article img{
+   width: 250px;
+   height: 100px;
+   margin: 5px 20px 5px 20px;
+}
+
+
+
+
+

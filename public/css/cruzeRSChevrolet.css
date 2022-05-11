@@ -1,0 +1,23 @@
+
+
+.FraseDetalle .frase1{
+    display: flex;
+    justify-content: center;
+    font-size:xx-large;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+    font-weight: bolder;
+    color: #616161 !important;
+    margin-top: 20px;
+    
+    
+ }
+
+ .FraseDetalle .frase2{
+    display: flex;
+    justify-content: center;
+    font-size:xx-large;
+    font-family: "Antenna",Arial,Helvetica,"Microsoft YaHei","微软雅黑","STXihei","华文细黑","SimSun","宋体";
+    font-weight: bolder;
+    color: #616161 !important;
+ }
+

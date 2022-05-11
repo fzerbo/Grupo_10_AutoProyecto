@@ -1,0 +1,171 @@
+section .recuadroG{
+     display: flex;
+     
+     justify-content: flex-start;
+     padding-top: 80px;
+     flex-wrap: wrap;
+   
+
+   
+}
+    
+
+
+article .articulo  h4{
+
+    font-family: Louis,Tahoma,NotoSansKR,sans-serif;
+    font-style: inherit;
+    font-weight: 400;
+    letter-spacing: .15rem;
+    text-align: center;
+    
+    
+}
+
+.navegadorAutos{
+    display: flex;
+     
+     justify-content: flex-start;
+     justify-content: center;
+     
+     
+}
+
+section nav ul .autos{
+    
+    padding-right: 120px;
+    text-decoration: none;
+}
+
+section nav ul .suv{
+    
+    padding-right: 120px;
+    text-decoration: none;
+    
+}
+
+section nav ul .pickups{
+    
+    padding-right: 120px;
+    text-decoration: none;
+}
+
+section .navAutos{
+
+    display: flex;
+    justify-content: flex-start;
+     justify-content: center;
+    
+   
+    
+    }
+section a{
+
+    outline: none;
+    text-decoration: none;
+    
+}
+section .ford {
+    width: 350px;
+    height: 70px;
+    text-align: center;
+    font-family: Tahoma;
+    
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: rgb(243, 243, 243);
+    color: rgb(150, 148, 148);
+    text-align: center;
+    
+
+}
+
+section .chevrolet{
+    width: 350px;
+    height: 70px;
+    text-align: center;
+    font-family: Tahoma;
+    font-style: inherit;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: rgb(150, 148, 148);
+    background-color: rgb(243, 243, 243);
+    
+    
+}
+section .Volkswagen{
+    width: 350px;
+    height: 70px;
+    text-align: center;
+    font-family: Tahoma;
+    font-style: inherit;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: rgb(150, 148, 148);
+    background-color: rgb(243, 243, 243);
+    
+
+    
+}
+section .Jeep{
+    width: 350px;
+    height: 70px;
+    text-align: center;
+    font-family: Tahoma;
+    font-style: inherit;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: rgb(150, 148, 148);
+    background-color: rgb(243, 243, 243);
+    
+}
+
+section .chevrolet:hover{
+
+    background-color: white;
+    color: black;
+    transition: background-color 900ms;
+
+
+}
+
+section .ford:hover{
+
+
+    background-color: white;
+    color: black;
+    transition: background-color 900ms;
+
+
+}
+
+section .Volkswagen:hover{
+
+    background-color: white;
+    color: black;
+    transition: background-color 900ms;
+
+
+}
+
+section .Jeep:hover{
+
+    background-color: white;
+    color: black;
+    transition: background-color 900ms;
+
+
+}
+.navAutos a:hover{
+
+    background-color: white;
+    color: black;
+    transition: background-color 900ms;
+
+
+}
+.navAutos a{
+    text-decoration: none;
+    color: rgb(150, 148, 148);
+}
+
