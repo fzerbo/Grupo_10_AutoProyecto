@@ -97,6 +97,7 @@ section .Compra{
       margin: 100px;
 
    }
+ 
 
    footer .piePagina .art ul {
 
@@ -136,3 +137,30 @@ footer .piePagina .art ul li a{
    
 }
 
+
+
+@media (min-width: 319px) {
+
+
+
+   
+}
+
+@media (min-width: 361px) {
+
+   .botoncomprar{
+      align-content: center;
+   }
+
+
+
+   
+}
+
+@media (min-width: 769px) {
+   
+ 
+
+
+
+}

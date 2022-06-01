@@ -1,0 +1,421 @@
+
+
+
+.logo{
+    height: 200px;
+    width: 200px;
+
+
+}
+
+.logo img{
+    width: 100%;
+    height: 100%;
+   
+}
+
+
+.navegador {
+    height: 350px; 
+    display: flex;
+    flex-direction: column;
+    justify-content:  space-around;
+    align-items: center;
+    border-bottom: solid  1px gray;
+ 
+  
+ }
+ nav ul li a{
+    
+    font-family: Arial;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+ }
+
+ nav ul li{
+    list-style: none;
+
+ }
+
+
+
+ 
+ section .textHome{
+ 
+    font-family: Arial;
+    text-align: center;
+    padding: 30px;
+ 
+ }
+
+
+
+ footer .piePagina .art ul {
+
+    
+    list-style:none;
+    font-family: Arial;
+   
+    text-decoration: none;
+    
+
+ }
+
+ footer .piePagina .art ul li a{
+
+    text-decoration: none;
+    
+ }
+
+.fondoPie{
+
+ background-color: #242424;
+
+}
+
+footer .piePagina h2{
+
+ font-family: Arial;
+ color: whitesmoke;
+ 
+}
+
+
+
+footer .piePagina .art ul li a{
+
+color: whitesmoke
+ 
+
+}
+
+footer .piePagina  .lista{
+ 
+    
+    padding: 0px;
+     
+  }
+@media (min-width: 319px) {
+
+    section .Compra .textoC{
+        background-color:  black;
+     
+     
+     }
+     
+     
+     section .Compra .textoC{
+        font-family: Arial;
+        
+        text-align: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: white !important;
+        border-radius: 0.5rem;
+        margin-top: 20px;
+     
+     
+     
+     }
+     
+     section .Compra{
+        background-color: var(--black);
+         color: var(--black-contrast);
+         border: 1px solid transparent;
+        
+        }
+        section .Compra{
+        height: auto;
+         line-height: normal;
+         text-decoration: none;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+        
+        }
+
+
+    footer .piePagina  .lista{
+ 
+    
+        padding: 0px;
+         
+      }
+
+      footer .piePagina{
+ 
+       
+        display: flex;
+        flex-direction: column;
+        justify-content:  space-around;
+        margin: 20px;
+       
+  
+     }
+   
+}
+
+@media (min-width: 361px) {
+
+    footer .piePagina{
+ 
+       
+        display: flex;
+        flex-direction: column;
+        justify-content:  space-around;
+        margin: 20px;
+       
+  
+     }
+
+     section .textHome{
+ 
+        font-family: Arial;
+        text-align: center;
+        padding: 30px;
+     
+     }
+
+     section .Compra .textoC{
+        background-color:  black;
+     
+     
+     }
+     
+     
+     section .Compra .textoC{
+        font-family: Arial;
+        
+        text-align: center;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: white !important;
+        border-radius: 0.5rem;
+        margin-top: 20px;
+     
+     
+     
+     }
+     
+     section .Compra{
+        background-color: var(--black);
+         color: var(--black-contrast);
+         border: 1px solid transparent;
+        
+        }
+        section .Compra{
+        height: auto;
+         line-height: normal;
+         text-decoration: none;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+        
+        }
+ 
+ 
+
+    footer .piePagina  .lista{
+ 
+    
+        padding: 0px;
+         
+      }
+
+   
+}
+
+@media (min-width: 769px) {
+   
+
+
+    header .navegador{
+        display: flex;
+        align-items: center;
+    }
+
+    header .navegador{
+        height: 150px;
+        
+    }
+
+    .logo{
+        height: 200px;
+        width: 200px;
+        
+        
+    
+    }
+    
+    .logo img{
+        width: 100%;
+        height: 100%;
+      
+    }
+
+
+.navegador {
+    height: 200px; 
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    border-bottom: solid  1px gray;
+ 
+  
+ }
+ 
+ 
+ nav ul li a{
+    list-style:none;
+    font-family: Arial;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    
+    
+    
+  
+ }
+
+ nav ul li a .fa-circle-user{
+     padding-left: 3px;
+ }
+ 
+ nav ul{
+    height: 20%;
+    width: 100%;
+    list-style:none;
+    display: flex;
+    flex-direction: flex-end;
+    justify-content: space-between;
+ 
+ }
+ 
+section .imagenesHome{
+   
+    padding-left: 150px;
+}
+
+
+ 
+ 
+ 
+ 
+ section .textHome{
+ 
+    font-family: Arial;
+    text-align: center;
+    padding: 30px;
+ 
+ }
+ 
+    section .Compra .textoC{
+    background-color:  black;
+ 
+ 
+ }
+ 
+ 
+ section .Compra .textoC{
+    font-family: Arial;
+    
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white !important;
+    border-radius: 0.5rem;
+    margin-top: 20px;
+ 
+ 
+ 
+ }
+ 
+ section .Compra{
+    background-color: var(--black);
+     color: var(--black-contrast);
+     border: 1px solid transparent;
+    
+    }
+    section .Compra{
+    height: auto;
+     line-height: normal;
+     text-decoration: none;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    
+    }
+ 
+    footer .piePagina{
+ 
+       
+       display: flex;
+       flex-direction: row;
+       justify-content:  space-around;
+       margin: 20px;
+      
+ 
+    }
+
+    footer{
+        padding: 0px;
+    }
+  
+ 
+    footer .piePagina .art ul {
+ 
+       
+       list-style:none;
+       font-family: Arial;
+      
+       text-decoration: none;
+       
+ 
+    }
+ 
+    footer .piePagina .art ul li a{
+ 
+       text-decoration: none;
+       
+    }
+ 
+  .fondoPie{
+ 
+    background-color: #101010;
+ 
+  }
+ 
+  footer .piePagina h2{
+ 
+    font-family: Arial;
+    color: whitesmoke;
+    
+ }
+ 
+ 
+ 
+ footer .piePagina .art ul li a{
+ 
+   color: whitesmoke;
+   
+    
+ }
+
+  
+ footer .piePagina  .lista{
+ 
+    
+    padding: 0px;
+     
+  }
+
+
+}

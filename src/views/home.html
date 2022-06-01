@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-    <link href="css/style.css" rel="stylesheet">
+    <!-- <link href="css/style.css" rel="stylesheet"> -->
+    <link href="css/home.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/8f05d76f5e.js" crossorigin="anonymous"></script>
 
 
     <title>Proyecto</title>
@@ -16,15 +18,16 @@
 <body>
     <header>
         <div class="navegador">
-            <img src="/imagenes/logoford.png">
-
+            <div class="logo">
+            <img class="logopagina" src="/imagenes/FZ LOGO - SIN FONDO-01.png">
+            </div> 
             <nav>
 
                 <ul>
-                    <li><a href="/Vehiculos">Vehiculos</a></li>
-                    <li><a href="#">Comprar</a></li>
-                    <li><a href="#">Nosotros</a></li>
-                    <li><a href="#">Mi cuenta</a></li>
+                    <li><a class="lista1" href="/Vehiculos">Vehiculos</a></li>
+                    <li><a class="lista2" href="#">Comprar</a></li>
+                    <li><a class="lista3"  href="#">Nosotros</a></li>
+                    <li><a class="lista4" href="#">Mi cuenta  <i class="fa-solid fa-circle-user"></i> </a></li>
                 </ul>
             </nav>
         </div>
@@ -36,21 +39,23 @@
         </div>
 
     
-        <div class="imagenPortada">
-            <img src="/imagenes/fotoford.jpg" alt="portada">
+        <div class="content-portada">
+           <img src="/imagenes/fotoford.jpg" alt="portada"> 
+            <!--  <img class="portada" src="/imagenes/fondoCelular.jpg" alt="portada" >-->
+            
         </div>
 
     </section>
 
     <section>
-        <article class="textoR">
+        <article class="textHome">
 
             <h2>6 Razones para comprar un auto (MARCA)</h2>
 
         </article>
     </section>
 
-    <section>
+    <section class="carrusel-home">
 
         <article class="imagenesHome">
 
@@ -68,7 +73,7 @@
 
     </section>
 
-    <section>
+    <section class="botoncomprar">
         <article class="Compra">
             <div class="textoC">
                 <a style="color:white;  text-decoration: none;"  href="/Vehiculos"><h3>COMPRA UN AUTO</h3></a>
@@ -85,12 +90,12 @@
             <section class="piePagina">
                 <article class="art">
                     <h2>Todos los Vehiculos</h2>
-                    <ul>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">SUVs</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Pick-ups</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Utilitarios</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Autos</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Futuros Vehiculos</a></li>
+                    <ul class="lista">
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">SUVs</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Pick-ups</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Utilitarios</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Autos</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Futuros Vehiculos</a></li>
                     </ul>
 
                 </article>
@@ -99,9 +104,9 @@
 
                 <article class="art">
                     <h2>Posventa</h2>
-                    <ul>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Mantenimientos programados</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Accesorios</a></li>
+                    <ul class="lista">
+                        <li><a   style="color:whitesmoke;  text-decoration: none;" href="#">Mantenimientos programados</a></li>
+                        <li><a   style="color:whitesmoke;  text-decoration: none;" href="#">Accesorios</a></li>
 
                     </ul>
                 </article>
@@ -111,10 +116,10 @@
 
                 <article class="art">
                     <h2>Herramientas</h2>
-                    <ul>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Concesionarios</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Contacto</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Agenda un Test Drive</a></li>
+                    <ul class="lista">
+                        <li><a   style="color:whitesmoke;  text-decoration: none;" href="#">Concesionarios</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Contacto</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Agenda un Test Drive</a></li>
 
                     </ul>
                 </article>
@@ -123,10 +128,10 @@
 
                 <article class="art">
                     <h2>Ayuda</h2>
-                    <ul>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Politica de privacidad</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Mapa del sitio</a></li>
-                        <li><a style="color:whitesmoke;  text-decoration: none;" href="#">Contacto</a></li>
+                    <ul class="lista">
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Politica de privacidad</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Mapa del sitio</a></li>
+                        <li><a  style="color:whitesmoke;  text-decoration: none;" href="#">Contacto</a></li>
 
                     </ul>
                 </article>

@@ -55,6 +55,10 @@ app.get('/ChevroletCruzeRS', (req,res)=>{
     res.sendFile(__dirname + '/views/ChevroletCruzeRS.html');
 });
 
+app.get('/pruebafoto', (req,res)=>{
+    res.sendFile(__dirname + '/views/foto.html');
+});
+
 
 
 //const grande = document.querySelector('.grande');
