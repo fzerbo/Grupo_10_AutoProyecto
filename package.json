@@ -2,13 +2,15 @@
   "name": "proyecto-paginaweb",
   "version": "1.0.0",
   "description": "",
-  "main": "src/app.js",
+  "main": "index.js",
+  
   "scripts": {
     "test": "nodemon src/app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.8",
     "express": "^4.17.3",
     "install": "^0.13.0"
   },
